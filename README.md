@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio Copete</h1>
-<h3 align="center">I'm a passionate junior fullstack web developer. I like to spend time every week learning a bit more about web development. I consider myself an easy-going person and I love to have the opportunity to share knowledge or points of view with colleagues, I find that the most important values collaborate in a team are patience, empathy, respect and open-mindedness</h3>
+<h3 align="center">I'm a passionate junior fullstack web developer. I like to spend time every week learning a bit more about web development. I consider myself an easy-going person and I love to have the opportunity to share knowledge or points of view with colleagues, I find that the most important values to collaborate in a team are patience, empathy, respect and open-mindedness</h3>
 
 <hr/>
 
