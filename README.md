@@ -7,8 +7,8 @@
 <div align="center">
 <h3>Sobre mí</h3>
  <p> Me encanta trabajar con JavaScript y seguir aprendiendo sobre
-  todas las tecnologías que lo rodean, especialmente en Backend, desarrollando API RESTfull con Node.js, Express.js y MongoDB. También me gusta aprender en mi tiempo libre sobre blockchain y desarrollo de Web3.</p>
- <p>Me encanta compatir diferentes puntos de vista con mis compañeros de trabajo. Considero la paciencia, empatía, respeto y tener una mentalidad abierta, como valores
+  todas las tecnologías que lo rodean. Actualmente estoy aprendiendo testing con JavaScript en mi tiempo libre</p>
+ <p>Me encanta compartir diferentes puntos de vista con mis compañeros de trabajo. Considero la paciencia, empatía, respeto y tener una mentalidad abierta, como valores
    fundamentales para trabajar en equipo. Tambíen me gustan los desafíos como herramienta para mejorar mis habilidades y autoconocimiento.
   </p>
 </div>
