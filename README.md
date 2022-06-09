@@ -7,7 +7,7 @@
 <div align="center">
 <h3>Sobre mí</h3>
  <p> Me encanta trabajar con JavaScript y seguir aprendiendo sobre
-  todas las tecnologías que lo rodean. Actualmente estoy aprendiendo testing con JavaScript en mi tiempo libre</p>
+  todas las tecnologías que lo rodean. En mi tiempo libre me gusta seguir aprendiendo sobre testing y web3 (Solidity)</p>
  <p>Me encanta compartir diferentes puntos de vista con mis compañeros de trabajo. Considero la paciencia, empatía, respeto y tener una mentalidad abierta, como valores
    fundamentales para trabajar en equipo. Tambíen me gustan los desafíos como herramienta para mejorar mis habilidades y autoconocimiento.
   </p>
