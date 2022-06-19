@@ -30,6 +30,14 @@
 </p>
 </div>
 
+<div align="center">
+<h3>Some projects</h3>
+<h5>Musikan</h5>
+<p>
+<a href="https://musikan.netlify.app/" target="blank"><img align="center" src="https://ibb.co/r20jQww" alt="antonio-copete" height="30" width="40" /></a>
+</p>
+</div>
+
 <hr/>
 
 <div align="center">
