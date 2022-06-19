@@ -7,7 +7,7 @@
 <div align="center">
 <h3>Sobre mí</h3>
  <p> Me encanta trabajar con JavaScript y seguir aprendiendo sobre
-  todas las tecnologías que lo rodean. En mi tiempo libre me gusta seguir aprendiendo sobre testing y web3 (Solidity)</p>
+  todas las tecnologías que lo rodean. En mi tiempo libre me gusta seguir aprendiendo sobre testing y web3</p>
  <p>Me encanta compartir diferentes puntos de vista con mis compañeros de trabajo. Considero la paciencia, empatía, respeto y tener una mentalidad abierta, como valores
    fundamentales para trabajar en equipo. Tambíen me gustan los desafíos como herramienta para mejorar mis habilidades y autoconocimiento.
   </p>
@@ -32,9 +32,10 @@
 
 <div align="center">
 <h3>Some projects</h3>
-<h5>Musikan</h5>
 <p>
-<a href="https://musikan.netlify.app/" target="blank"><img align="center" src="https://ibb.co/r20jQww" alt="antonio-copete" height="30" width="40" /></a>
+<a href="https://musikan.netlify.app" target="blank">
+ Musikan
+</a>
 </p>
 </div>
 
