@@ -6,7 +6,7 @@
 <div align="center">
 <h3>About me</h3>
  
- <p> I love coding with Javascript using React.js in the Frontend and Node.js in the backend. I also like to learn about technologies around it (Next.js for SSR, Jest for unit testing...).
+ <p> I love coding with Javascript using React.js in the Frontend and Node.js in the backend. I also like to learn about technologies around it.
  </p>
  
  <p> I consider patience, empathy, respect and open-mindedness as key values to work in a team. I also like challenges because they are tools to improve skills and self-awareness </p>
