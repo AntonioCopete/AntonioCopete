@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-<h4 align="center">I'm a MERN Fullstack Developer (MongoDb, Express.js, React.js, Node.js) living in Seville (Spain).</h4>
+<h4 align="center">I'm a Fullstack Developer living in Seville (Spain).</h4>
 </br>
 
 
