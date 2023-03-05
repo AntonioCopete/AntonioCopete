@@ -31,15 +31,6 @@
 </p>
 </div>
 
-<div align="center">
-<h3>Some projects</h3>
-<p>
-<a href="https://musikan.netlify.app" target="blank">
- Musikan
-</a>
-</p>
-</div>
-
 <hr/>
 
 <div align="center">
